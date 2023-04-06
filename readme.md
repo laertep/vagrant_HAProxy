@@ -11,4 +11,5 @@ Obs: ferramenta de grande importância para fazer o balanceamento entre servidor
 
 
 
-![image](https://user-images.githubusercontent.com/44216245/230248670-8c880632-7ddd-4cf8-bf52-6e27d9da5023.png)
+![image](https://user-images.githubusercontent.com/44216245/230248975-44f6faa5-8dff-4ab5-afcb-968014724a96.png)
+
