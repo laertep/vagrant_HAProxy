@@ -6,7 +6,7 @@
 - Um servidor com aplicação Nginx instalado via script com ip privado;
 - Um servidor com aplicação Nginx instalado via script com ip privado;
 
-Obs: ferramenta de grande importãncia para fazer o balanceamento entre servidores para atender o balanceamento de carga entre 
+Obs: ferramenta de grande importância para fazer o balanceamento entre servidores para atender o balanceamento de carga entre 
      os servidores.
 
 
